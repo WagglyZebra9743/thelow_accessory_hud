@@ -1,0 +1,2 @@
+# thelow_accessory_hud
+thelowで装備中のアクセサリーを表示するmodです
